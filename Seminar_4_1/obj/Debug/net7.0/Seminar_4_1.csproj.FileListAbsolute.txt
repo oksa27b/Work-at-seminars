@@ -1,0 +1,15 @@
+D:\3. Знакомство с языками программирования\Семинар\С#\Seminar_4_1\bin\Debug\net7.0\Seminar_4_1.exe
+D:\3. Знакомство с языками программирования\Семинар\С#\Seminar_4_1\bin\Debug\net7.0\Seminar_4_1.deps.json
+D:\3. Знакомство с языками программирования\Семинар\С#\Seminar_4_1\bin\Debug\net7.0\Seminar_4_1.runtimeconfig.json
+D:\3. Знакомство с языками программирования\Семинар\С#\Seminar_4_1\bin\Debug\net7.0\Seminar_4_1.dll
+D:\3. Знакомство с языками программирования\Семинар\С#\Seminar_4_1\bin\Debug\net7.0\Seminar_4_1.pdb
+D:\3. Знакомство с языками программирования\Семинар\С#\Seminar_4_1\obj\Debug\net7.0\Seminar_4_1.csproj.AssemblyReference.cache
+D:\3. Знакомство с языками программирования\Семинар\С#\Seminar_4_1\obj\Debug\net7.0\Seminar_4_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\3. Знакомство с языками программирования\Семинар\С#\Seminar_4_1\obj\Debug\net7.0\Seminar_4_1.AssemblyInfoInputs.cache
+D:\3. Знакомство с языками программирования\Семинар\С#\Seminar_4_1\obj\Debug\net7.0\Seminar_4_1.AssemblyInfo.cs
+D:\3. Знакомство с языками программирования\Семинар\С#\Seminar_4_1\obj\Debug\net7.0\Seminar_4_1.csproj.CoreCompileInputs.cache
+D:\3. Знакомство с языками программирования\Семинар\С#\Seminar_4_1\obj\Debug\net7.0\Seminar_4_1.dll
+D:\3. Знакомство с языками программирования\Семинар\С#\Seminar_4_1\obj\Debug\net7.0\refint\Seminar_4_1.dll
+D:\3. Знакомство с языками программирования\Семинар\С#\Seminar_4_1\obj\Debug\net7.0\Seminar_4_1.pdb
+D:\3. Знакомство с языками программирования\Семинар\С#\Seminar_4_1\obj\Debug\net7.0\Seminar_4_1.genruntimeconfig.cache
+D:\3. Знакомство с языками программирования\Семинар\С#\Seminar_4_1\obj\Debug\net7.0\ref\Seminar_4_1.dll
